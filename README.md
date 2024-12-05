@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,vuejs,php,javascript,livewire,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,vuejs,php,javascript,html,css" /><br>
 </div>
 
 <br/>
