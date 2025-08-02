@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Stock Managment App
+ 🔭 I’m currently working on Personal Laravel Projects
  
  🌱 I’m currently learning **VueJS, Livewire**
 
