@@ -14,10 +14,9 @@ I enjoy building modern, responsive, and user-friendly web applications. Passion
 ---
 
 ## 📫 Connect With Me  
-- 🌐 [Portfolio/Website](#) _(add link if available)_  
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter/X](#)  
-- 📧 Email: _(your email here)_  
+- 💼 [LinkedIn](https://www.linkedin.com/in/parsashafiei/)  
+- 🐦 [Instagram](https://www.instagram.com/itsp4rs4/)  
+- 📧 Email: _(parsashafiei1995@gmail.com)_  
 
 ---
 
