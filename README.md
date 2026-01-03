@@ -7,9 +7,9 @@ I enjoy building modern, responsive, and user-friendly web applications. Passion
 ---
 
 ## 🚀 Skills  
-- **Frontend:** React, HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Laravel, PHP  
-- **Other Interests:** UI/UX design, API integration, performance optimization  
+- **Other Interests:** API integration, performance optimization  
 
 ---
 
